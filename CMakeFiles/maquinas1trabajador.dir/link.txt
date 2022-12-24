@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -O3 CMakeFiles/maquinas1trabajador.dir/src/multiplesmaquinas1trabajador.cpp.o CMakeFiles/maquinas1trabajador.dir/home/briansenas/Desktop/University/SS/P3/include/utils.cpp.o -o bin/maquinas1trabajador 

@@ -1,0 +1,6 @@
+/home/briansenas/Desktop/University/SS/P3/maquinas/CMakeFiles/maquinas1trabajador.dir
+/home/briansenas/Desktop/University/SS/P3/maquinas/CMakeFiles/maquinasmodificable.dir
+/home/briansenas/Desktop/University/SS/P3/maquinas/CMakeFiles/ntec.dir
+/home/briansenas/Desktop/University/SS/P3/maquinas/CMakeFiles/best_model.dir
+/home/briansenas/Desktop/University/SS/P3/maquinas/CMakeFiles/edit_cache.dir
+/home/briansenas/Desktop/University/SS/P3/maquinas/CMakeFiles/rebuild_cache.dir
